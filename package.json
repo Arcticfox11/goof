@@ -36,7 +36,7 @@
     "method-override": "latest",
     "moment": "2.27.0",
     "mongodb": "^3.5.9",
-    "mongoose": "5.3.9",
+    "mongoose": "5.7.3",
     "morgan": "latest",
     "ms": "^0.7.1",
     "mysql": "^2.18.1",
@@ -46,7 +46,7 @@
     "stream-buffers": "^3.0.1",
     "tap": "^12.6.2",
     "typeorm": "^0.2.25",
-    "snyk": "^1.398.0"
+    "snyk": "^1.996.0"
   },
   "devDependencies": {
     "browserify": "^13.1.1"
